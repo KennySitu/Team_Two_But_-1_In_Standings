@@ -30,7 +30,7 @@ All the other folders are not relevant to the project.
 # Visualization
 **Pairplot**<br>
 **Heat map**<br>
-According to the method of exploratory data analysis, we first do the pairplot to show the relevance between each item at the very beginning. This data does not show relavance for the shown items.
+According to the method of exploratory data analysis, we first do the pairplot to show the relevance between each item at the very beginning. This data tells us there is no relavance for the shown items.
 ![alt text](https://github.com/KennySitu/Team_Two_But_-1_In_Standings/blob/master/Visualization/figure/PairPlot.png)
 <br>
 Then we do the heat maps.
