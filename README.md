@@ -25,7 +25,6 @@ The HTML_Files contain all the converted HTML files from the Original PDFs.
 The CSV_Files folder contains all the csv files that contain the total mental health issues in a region 
 while the Percentage_CSV_Files folder contains all the csv files that contain the percentage of the population with mental health issues. 
 Lastly, the Jupyter notebook contains the code and my documentation that scraped and cleaned my data. 
-All the other folders are not relevant to the project.
 
 # Visualization
 **Pairplot**<br>
