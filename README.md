@@ -10,7 +10,7 @@ Tejas Bhakta
 In this project we will scrape, then visualize mental health issues and gun violence data with heatmaps. We will then run statistical tests on the data, and seek answer the following questions.:
 
 **Are Mental Health Illnesses Correlated with Gun Fatalities?**<br>
-**Are Mental Health Illnesses Correlated with Violent Crime**<br> (Rape, assault, gun violence, etc... Essentially a larger set that includes gun fatalities as well as other crimes) 
+**Are Mental Health Illnesses Correlated with Violent Crime** (Rape, assault, gun violence, etc... Essentially a larger set that includes gun fatalities as well as other crimes) <br>
 **Is the medical Treatment of Mental Health Illnesses correlated with lesser Gun Fatality rates?**<br>
 **Given a number of Mental Health Illnesses in a State, can we accurately predict the number of Gun Fatalities?** <br>
 
