@@ -49,6 +49,6 @@ In this Notebook, we will fetch gun violence and mental health data from our csv
 ![alt text](https://github.com/KennySitu/Team_Two_But_-1_In_Standings/blob/master/Correlation/forREADME.PNG)
 
 # Predictive Model
-In this Notebook, we create a prediction model, which we are able to use because of the strength of our correlation data, where the user can enter a number of mental illnesses and get a semi-accurate approximation of how many gun fatalities there will be. (R^2 value is 0.8)
+In this Notebook, we create a prediction model, which we are able to use because of the strength of our correlation data, where the user can enter a number of mental illnesses and get a semi-accurate approximation of how many gun fatalities there will be. (R^2 value is 0.8, which implies there is little deviation from the line)
 ![alt text](https://github.com/KennySitu/Team_Two_But_-1_In_Standings/blob/master/Predictive%20Model/predict_forREADME.PNG)
 
