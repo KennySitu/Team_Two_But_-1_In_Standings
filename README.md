@@ -17,15 +17,15 @@ In this project we will scrape, then visualize mental health issues and gun viol
 
 # Folders <br>
 **Correlation**<br>
-One jupyter notebook with all correlation analysis
+One jupyter notebook with all correlation analysis<br>
 **Predictive Model**<br>
-One jupyter notebook with all predictive model analysis
+One jupyter notebook with all predictive model analysis<br>
 **Scraping_Data**<br>
-Multiple jupyter notebooks with all correlation analysis, subfolders of sources and outputs
+Multiple jupyter notebooks with all correlation analysis, subfolders of sources and outputs<br>
 **Visualization**<br>
-One jupyter notebook with all Visualization analysis, one subfolder name figure with all our heatmaps saved
+One jupyter notebook with all Visualization analysis, one subfolder name figure with all our heatmaps saved<br>
 **data**<br>
-csv files (result of the data scraping) we used in our analysis
+csv files (result of the data scraping) we used in our analysis<br>
 
 # Data Scraping
 For the Mental Health Scrapping Data, all the content is stored in the Scraping_Data folder in Github. 
